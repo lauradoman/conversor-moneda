@@ -30,3 +30,6 @@ Finalizado.
 
 JAVA
 API exchangerate-api.com
+
+##DESARROLLADORES INVOLUCRADOS
+Laura M. Dominguez A.
